@@ -1,0 +1,21 @@
+# SQL Learning Notes – Videogame Project
+
+## Day 1
+- Installed SQLite tools and DB Browser for SQLite
+- Imported videogames.csv into a new database
+- Ran first SELECT query
+
+## Day 2
+Concepts learned:
+- SELECT = retrieves data from a table
+- WHERE = filters rows
+- LIKE = pattern matching
+- LIMIT = controls output size
+
+Queries practiced:
+- Filtering by year and genre
+
+## Day 3
+- Practiced basic filtering queries
+- Organized queries into filtering_queries.sql
+- Prepared project structure for GitHub
